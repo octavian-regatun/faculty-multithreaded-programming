@@ -4,7 +4,6 @@
 
 | Folder                                        | Description                                   |
 |-----------------------------------------------|-----------------------------------------------|
-| [Exercitiul_1](./Exercitiul_1/)               | Liniarizabilitatea si Consistenta Secventiala |
 | [Exercitiul_2](./Exercitiul_2/)               | Lock in Try / Lock before Try                 |
 | [Exercitiul_5](./Exercitiul_5_Peterson_Lock/) | Peterson Lock (0 Bounded Waiting / Fairness)  |
 
